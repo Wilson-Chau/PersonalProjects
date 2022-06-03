@@ -1,4 +1,4 @@
-##Description:
+## Description:
 This is a self define poker game. When the game starts, 52 playing cards will be shuffled and the
 player is given $100. At each round of the game, both the player and the dealer will be
 given 3 cards (they are drawn from the top of the deck). Player will place his/her bet
@@ -8,7 +8,7 @@ the deck to replace any two of the cards on hand and each card on hand can only 
 replaced ONCE. Player will lose the bet if the dealer got a better hand (see below for
 explanation), otherwise the player wins the same amount of money as his/her bet.
 
-##Game rules:
+## Game rules:
 J, Q, K are regarded as special cards.
 Rule 1: The one with more special cards wins.
 Rule 2: If both have the same number of special cards, add the face values of the other
